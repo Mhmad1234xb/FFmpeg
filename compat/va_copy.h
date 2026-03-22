@@ -1,4 +1,4 @@
-/*
+https://github.com/FFmpeg/FFmpeg/blob/9c63742425aa9c84148f218513f74dbab1e01926/compat/va_copy.h#L34/*
  * MSVC Compatible va_copy macro
  * Copyright (c) 2012 Derek Buitenhuis
  *
